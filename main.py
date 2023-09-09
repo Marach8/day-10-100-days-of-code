@@ -1,4 +1,4 @@
-print('\033[32mTip Calculator.\033[0m')
+print('\033[32mTip Calculator\033[0m')
 print()
 b = float(input('How much did you spend? '))
 print()
